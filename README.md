@@ -11,3 +11,4 @@
 
 alsalam alakum
 I am anwaar, this project aims to build general open source optical character recogniser and reader.  
+dumtum bikhayr
