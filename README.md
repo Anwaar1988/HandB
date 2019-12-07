@@ -6,8 +6,8 @@
 
 
 #HandB 
- General open source Optical character Recognintion (OCR)
+ 
  
 
 alsalam alakum
-I am anwaar
+I am anwaar, this project aims to build general open source Optical Character Recognintion (OCR).  
